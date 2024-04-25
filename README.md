@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amiga-4-ever
 - 👀 I’m interested in Gaming, Retro-Computing, Gardening, Bread Baking, my Pets
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Python, C (had learned C#)
 - 💞️ I’m looking to collaborate on tasks for beginners
 - 📫 How to reach me ...
 
