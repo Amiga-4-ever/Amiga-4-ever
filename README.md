@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Amiga-4-ever
 - 👀 I’m interested in Gaming, Retro-Computing, Gardening, Bread Baking, my Pets
 - 🌱 I’m currently learning Python, C (had learned C#)
-- 💞️ I’m looking to collaborate on tasks for beginners
-- 📫 How to reach me ...
+- 💞️ I really like to work with html, css, javascript
 
 <!---
 Amiga-4-ever/Amiga-4-ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
